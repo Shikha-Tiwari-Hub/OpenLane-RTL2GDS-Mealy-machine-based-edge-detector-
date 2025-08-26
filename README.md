@@ -18,7 +18,8 @@ It takes your Verilog RTL code and generates the final chip layout (GDSII) ready
 - Provides a push-button flow (full automation) as well as step-by-step control for learning/debugging.
 - Used in Google/Efabless shuttle programs for making real chips.
 
-  <img width="100" height="200" alt="image" src="https://github.com/user-attachments/assets/3d46153d-0688-4f51-a263-be4440915818" />
+ ![WhatsApp Image 2025-08-26 at 15 10 30_00a1b3ac](https://github.com/user-attachments/assets/7df035aa-b2f9-4464-8d2c-9202ffc9c79c)
+
 
   ## Step-by-Step Commands
   
